@@ -28,7 +28,7 @@ Jika anda berminat hubungi nomor di bawah!!
 ⟩» *jangan lupa donasi kak* «⟨
 Terimakasih yang sudah mendonasikan untuk bot
 Contact person jasa run:
-wa.me/79811950242 (ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×)
+wa.me/6281959293465 (ᵈʳangga ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×)
 *Follow Instagram ku juga kak😼*`
   conn.send2ButtonImg(m.chat, fla + teks, anu, instagram, 'Donasi', '.donasi', 'Sewa Meii-MD', '.sewa', m) 
 }
