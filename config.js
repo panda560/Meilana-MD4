@@ -74,7 +74,7 @@ global.pulsa = ["+62 819-5929-3465 / +62 812-7367-7810"] //pulsa here
 global.trakteer = "-"//Link url https://
 global.paypal = "-" //paypal email
 global.gopay = "+62 812-7367-7810"//Numver for Payment digital Gopay Gojek
-global.instagram = "https://instagram.com/arrezza20
+global.instagram = "https://instagram.com/arrezza20"
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
