@@ -63,25 +63,25 @@ global.author = data.owner;
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy ᵈʳᴩᴀɴɢᴇʀᴀɴ Tama-ᴍᴅ'
+        global.colong2 = 'ʙy ᵈʳ EJYUNOFC MD'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
 /*============== PAYMENT ==============*/
-global.saweria = "https://saweria.co/kokopangeran"// website saweria.co
+global.saweria = "-"// website saweria.co
 global.dana = ["-"]
-global.pulsa = ["+62 819-5929-3465 / +62 812-7367-7810"] //pulsa here
+global.pulsa = ["+62 821-8133-7337"] //pulsa here
 global.trakteer = "-"//Link url https://
 global.paypal = "-" //paypal email
-global.gopay = "+62 812-7367-7810"//Numver for Payment digital Gopay Gojek
+global.gopay = "-"//Numver for Payment digital Gopay Gojek
 global.instagram = "https://instagram.com/arrezza20"
 
 /*============== PAYMENT ==============*/
 global.pdana = '-'
 global.povo = '-'
-global.pgopay = '+62 812-7367-7810'
-global.ppulsa = '+62 819-5929-3465'
-global.ppulsa2 = '+62 812-7367-7810'
+global.pgopay = ''
+global.ppulsa = '+62 821-8133-7337'
+global.ppulsa2 = '+62 821-8133-7337'
 global.psaweria = '-'
 
 
