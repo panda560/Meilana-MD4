@@ -2,8 +2,7 @@ const qrku = "https://i.ibb.co/1LF6QHQ/pangeran.jpg"
 
 let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, qrku, `
 ╭─「 Donasi • Dana 」
-│ • MyXL [+62 819-5929-3465]
-│ • Gopay  [+62 812-7367-7810]
+│ • Telkomsel [+62 821-8133-7337]
 ╰────
 ╭─「 *NOTE* 」
 │ > Ingin donasi? wa.me/6281273677810
@@ -11,7 +10,7 @@ let handler = async (m, { conn, usedPrefix }) => conn.sendButtonImg(m.chat, qrku
 │ _atau beli *RDP/VPS* agar bot bisa jalan_
 │ _24jam tanpa kendala_
 ╰────
-`.trim(), wm, 'Pangeran', usedPrefix + 'infopangeran', m) // Tambah sendiri kalo mau
+`.trim(), wm, 'Zayyan', usedPrefix + 'infopangeran', m) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['about']
 handler.command = /^dona(te|si)$/i
